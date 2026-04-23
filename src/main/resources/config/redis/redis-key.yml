@@ -1,0 +1,5 @@
+# 安全配置
+safety:
+  sm2:
+    # sm2公钥在redis存储名
+    global: 'xian:sm2:keypair:global'
